@@ -1,0 +1,156 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+.navbar-dark {
+    background-color: #000038;
+    color: #ffffff;
+}
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+/* Colors: From New Pantone Kinetta palette 
+   See https://www.pantone.com/color-intelligence/articles/colors/behind-the-colors-character-color-palette-messages-and-meanings
+
+    EA733D
+    FFBE9F 
+    B8ACD0 
+    AD6433 
+    C96115 
+    F8E08E 
+
+*/
+
+.viv-bg-custom1 {
+    background-color: #EA733D;
+    color: #ffffff;
+}
+
+.viv-bg-custom2 {
+    background-color: #EA733D;
+    color: #ffffff;
+}
+
+.viv-bg-custom3 {
+    background-color: #B8ACD0;
+    color: #ffffff;
+}
+
+.viv-bg-custom4 {
+    background-color: #AD6433;
+    color: #ffffff;
+}
+
+.viv-bg-custom5 {
+    background-color: #C96115;
+    color: #ffffff;
+}
+
+.viv-bg-custom6 {
+    background-color: #F8E08E;
+    color: #000000;
+}
+
+@media (orientation: landscape) {
+  .viv-image-bg1 {
+    height:100vh; 
+    background-image: url(../../images/yellow-and-purple-ink-with-green.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg2 {
+    height:100vh; 
+    background-image: url(../../images/purple-and-red-ink-pool-on-white.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg3 {
+    height:100vh; 
+    background-image: url(../../images/green-orange-and-yellow-ink-cloud.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg4 {
+    height:100vh; 
+    background-image: url(../../images/pink-and-black-ink-drop.jpg);
+    background-size: cover; 
+  }
+}
+
+@media (orientation: portrait) {
+  .viv-image-bg1 {
+    height:100vh; 
+    background-image: url(../../images/yellow-and-purple-ink-with-green\ -\ cropped.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg2 {
+    height:100vh; 
+    background-image: url(../../images/purple-and-red-ink-pool-on-white\ -\ cropped.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg3 {
+    height:100vh; 
+    background-image: url(../../images/green-orange-and-yellow-ink-cloud\ -\ cropped.jpg);
+    background-size: cover; 
+  }
+
+  .viv-image-bg4 {
+    height:100vh; 
+    background-image: url(../../images/pink-and-black-ink-drop\ -\ cropped.jpg);
+    background-size: cover; 
+  }
+}
+

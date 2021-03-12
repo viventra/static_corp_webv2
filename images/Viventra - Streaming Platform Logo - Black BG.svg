@@ -1,0 +1,18 @@
+<svg width="1600" height="900" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1602" height="1602" id="canvas_background" fill="#EC7505"/>
+ </g>
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <g id="svg_5">
+   <text stroke="#000" transform="matrix(12.698810577392578,0,0,12.698810577392578,-3392.289479613304,-4160.241902709007) " xml:space="preserve" text-anchor="start" font-family="Helvetica, sans-serif" font-size="24" id="svg_3" y="387.18347" x="275.31949" opacity="undefined" stroke-width="0" fill="#ffffff">Streaming</text>
+   <g id="svg_4">
+    <text transform="matrix(5.2127020276613,0,0,5.2127020276613,-86.74129885873663,-1777.6363661189494) " xml:space="preserve" text-anchor="start" font-family="Arial" font-size="24" id="svg_1" y="378.28473" x="285.61552" opacity="undefined" stroke-width="0" fill="#ffffff" stroke="#000">®</text>
+    <text transform="matrix(14.463497207917374,0,0,14.463497207917374,-3880.9973736300904,-4730.245091263991) " xml:space="preserve" text-anchor="start" font-family="Georgia" font-size="24" id="svg_2" y="354.53263" x="276.11797" opacity="undefined" stroke-width="0" fill="#ffffff" stroke="#000">Viventra</text>
+   </g>
+  </g>
+ </g>
+</svg>

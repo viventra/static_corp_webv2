@@ -1,0 +1,16 @@
+<svg width="1600" height="1600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#000038" id="canvas_background" height="1602" width="1602" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_1"/>
+  </g>
+ </g>
+ <g transform="translate(0, 547.750165)">
+  <title>Layer 1</title>
+  <text stroke="#000" transform="rotate(-0.31272774934768677 795.8741455077982,200.1480102539119) matrix(15.573041420913075,0,0,14.297225824030667,-4772.341059320001,-6146.033102674525) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_2" y="452.249835" x="312.459055" stroke-width="0" fill="#ffffff">Viventra</text>
+  <text stroke="#000" transform="translate(1350, -225) rotate(-0.31272774934768677 795.8741455077982,200.1480102539119) matrix(15.573041420913075,0,0,14.297225824030667,-4772.341059320001,-6146.033102674525) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="5" id="svg_2" y="452.249835" x="312.459055" stroke-width="0" fill="#ffffff">&#174;</text>
+ </g>
+</svg>

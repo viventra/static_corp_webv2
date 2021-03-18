@@ -5,6 +5,11 @@
 	
 	.about-us-box-text { padding-right: 0; }
 	
+	.display-1 { font-size: 24px; }
+	.display-2 { font-size: 20px; }
+	.display-3 { font-size: 16px; }
+	.display-4 { font-size: 12px; }
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -27,6 +32,10 @@
 	
 	.blog-box h3:hover i { padding-left: 10px; }
 
+	.display-1 { font-size: 24px; }
+	.display-2 { font-size: 20px; }
+	.display-3 { font-size: 16px; }
+	.display-4 { font-size: 12px; }
 }
 
 @media (max-width: 767px) {
@@ -64,11 +73,20 @@
 	.footer-right { padding-top: 10px; text-align: center; }
 	.footer-bottom { padding-top: 20px; }
 	
+	.display-1 { font-size: 24px; }
+	.display-2 { font-size: 20px; }
+	.display-3 { font-size: 16px; }
+	.display-4 { font-size: 12px; }
 }
 
 @media (max-width: 415px) {
 	
 	h1, h2 { font-size: 32px; }
+
+	.display-1 { font-size: 24px; }
+	.display-2 { font-size: 20px; }
+	.display-3 { font-size: 16px; }
+	.display-4 { font-size: 12px; }
 
 }
 

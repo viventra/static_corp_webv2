@@ -46,19 +46,43 @@ html {
   min-height: 100%;
 }
 
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-}
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
-  /* Set the fixed height of the footer here */
-  height: 60px;
-  line-height: 60px; /* Vertically center the text there */
 }
+
+.footer div {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 5px;
+  font-size: 0.9rem;
+}
+
+@media (orientation: landscape) {
+  body {
+    flex-direction: row;
+    margin-bottom: 200px;
+  }
+  .footer {
+    /* Set the fixed height of the footer here */
+    height: 200px;
+  }
+
+}
+
+@media (orientation: portrait) {
+  body {
+    flex-direction: column;
+    margin-bottom: 200px;
+  }
+  .footer {
+    /* Set the fixed height of the footer here */
+    height: 200px;
+  }
+}
+
 
 /* Colors: From New Pantone Kinetta palette 
    See https://www.pantone.com/color-intelligence/articles/colors/behind-the-colors-character-color-palette-messages-and-meanings

@@ -113,12 +113,22 @@ html {
   background-color: #ffffff;
 }
 
-.consumer4-container {
+.consumer5-container {
   background-color: #000000;
 }
 
 .contentowner-container {
   background-color: #f1f1f1;
+}
+
+.postergrid {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.postergrid img {
+  margin: 5px;
 }
 
 .contentowner2-container {
@@ -158,6 +168,7 @@ html {
 }
 
 @media (orientation: landscape) {
+
   .viv-image-bg1 {
     height:100vh; 
     background-image: url(../../images/yellow-and-purple-ink-with-green.jpg);
@@ -185,6 +196,7 @@ html {
 }
 
 @media (orientation: portrait) {
+  
   .viv-image-bg1 {
     height:100vh; 
     background-image: url(../../images/yellow-and-purple-ink-with-green\ -\ cropped.jpg);

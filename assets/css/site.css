@@ -97,9 +97,36 @@ html {
 
 */
 
-.viventrastreaming-container {
-  background-color: #e5e5e5;
+.consumer-container {
+  background-color: #000000;
 }
+
+.consumer2-container {
+  background-color: #ffffff;
+}
+
+.consumer3-container {
+  background-color: #efefef;
+}
+
+.consumer4-container {
+  background-color: #ffffff;
+}
+
+.consumer4-container {
+  background-color: #000000;
+}
+
+.contentowner-container {
+  background-color: #f1f1f1;
+}
+
+.contentowner2-container {
+  background-color: #dfdfdf;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .viv-bg-custom1 {
     background-color: #EA733D;
     color: #ffffff;

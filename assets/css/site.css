@@ -97,6 +97,10 @@ html {
 
 */
 
+.event-container {
+  background-color: #B8ACD0;
+}
+
 .consumer-container {
   background-color: #000000;
 }
